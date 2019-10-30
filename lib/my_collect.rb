@@ -8,4 +8,3 @@ yield(array[i])
   end
   collection
 end
-
